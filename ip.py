@@ -17,4 +17,3 @@ if __name__ == '__main__':
   httpd = make_server('', 8000, get_ip)
   print 'Serving HTTP on port 8000...'
   httpd.serve_forever()
-
