@@ -1,9 +1,4 @@
-ipster.herokuapp.com is a WSGI app rewritten from a Flask app[1] I've been using
-for a while to self-host my external IP resolver over HTTP.
+ipster is a WSGI app to find your external IP.
 
 ipster runs at:
-http://ipster.herokuapp.com
-Please allow a few seconds for the dyno to warm up.
-
-[1] - https://github.com/flebel/flask-ip-hostname-resolvers
-
+http://ipster.apps.asktherelic.com/
